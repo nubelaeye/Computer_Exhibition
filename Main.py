@@ -3,7 +3,7 @@ import tkinter as tk
 import speech_recognition as sr
 import mediapipe as mp
 import qrcode 
-
+ 
 
 from share_server import ShareServer
 from portrait_engine import PortraitEngine
